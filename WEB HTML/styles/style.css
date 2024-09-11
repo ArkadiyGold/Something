@@ -4,3 +4,8 @@ body {
 ul li{
     display: inline;
 }
+#title{
+    border: 2px solid rgb(76, 0, 255);
+    width: 500px;
+    height: 100vh;
+   }
